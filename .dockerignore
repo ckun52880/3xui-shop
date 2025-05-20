@@ -1,6 +1,0 @@
-*.log
-*.zip
-*.gz
-.env
-__pycache__
-*.pyc
